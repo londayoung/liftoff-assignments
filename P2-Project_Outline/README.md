@@ -7,15 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-For my project, I am building a mood tracker application for anxiety management. In a world that is ever changing, it is important that technology advances support advances in mental health management tools. This application will allows users to log and easily share information regarding daily stress and anxiety levels. This information will allows patients and physicians to develop successful treatment plans and coping mechanisms.
+For my project, I am building a review site for historic landmarks in St. Louis. This application will allow users to easily share information about the historic landmarks they have visited is St. Louis. This information from this app will serve as a guide for locals and tourist when deciding which landmarks they should visit or prioritize landmarks during their tri.
 
 ### Features
+Admin login: Admin will be able to log in and manage postings. Only an admin will be able to remove an entry.
 
-User login: Users will be able to create accounts and log in to the application.
+Create entries: Users will be able to create entries describing their visit. 
 
-Create and remove entries: Users will be able to create, remove and update entries. All entries will appear in the user’s profile.
+View/search: Users will be able to view all reviews and reviews by specific landmarks.
 
-View/search: Users will be able to view and sort entries by time frame. 
+Calendar: A pop up calendar instead of a a blank input field for date. 
+
+Star rating: A 5 star rating system for people to rate their experience at a landmark
 
 ### Technologies
 
@@ -25,7 +28,7 @@ MySQL
 Thymeleaf
 
 ## Need to learn
-I will need to learn how to allow for user logins. I will also need to learn more front end development, and possibly linkage to a public API.
+I will need to learn how tto implement a user login. I will also need to learn more front end development, and possibly linkage to a public API.
 
 ### Project Tracker
 https://trello.com/b/XCEhYXQS/anxiety-management-app
